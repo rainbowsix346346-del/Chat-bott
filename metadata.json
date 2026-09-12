@@ -1,0 +1,7 @@
+{
+  "name": "چت‌بات چندشخصیتی و رمزنگاری‌شده",
+  "description": "چت‌بات هوشمند مجهز به شخصیت‌های متنوع، شخصی‌سازی پیشرفته لحن، ذخیره‌سازی ابری تاریخچه، رمزنگاری AES-256 و خروجی چندفرمت",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
